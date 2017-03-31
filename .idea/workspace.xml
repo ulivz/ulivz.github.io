@@ -1,7 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="790b5c25-3a0c-45f0-b5d0-c8c3fd699e57" name="Default" comment="" />
+    <list default="true" id="790b5c25-3a0c-45f0-b5d0-c8c3fd699e57" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/说明.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="$PROJECT_DIR$/static/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/flexslider.css" afterPath="$PROJECT_DIR$/static/css/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/icomoon.css" afterPath="$PROJECT_DIR$/static/css/icomoon.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/static/css/style.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.eot" afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.svg" afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.ttf" afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.woff" afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gitignore" afterPath="$PROJECT_DIR$/static/gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="$PROJECT_DIR$/static/images/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/person1.jpg" afterPath="$PROJECT_DIR$/static/images/person1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_1.jpg" afterPath="$PROJECT_DIR$/static/images/pic_1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_2.jpg" afterPath="$PROJECT_DIR$/static/images/pic_2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_3.jpg" afterPath="$PROJECT_DIR$/static/images/pic_3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_4.jpg" afterPath="$PROJECT_DIR$/static/images/pic_4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_5.jpg" afterPath="$PROJECT_DIR$/static/images/pic_5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_6.jpg" afterPath="$PROJECT_DIR$/static/images/pic_6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_7.jpg" afterPath="$PROJECT_DIR$/static/images/pic_7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic_8.jpg" afterPath="$PROJECT_DIR$/static/images/pic_8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/single_1.jpg" afterPath="$PROJECT_DIR$/static/images/single_1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.waypoints.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/static/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/static/js/modernizr-2.6.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="$PROJECT_DIR$/static/js/respond.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/_bootstrap-compass.scss" afterPath="$PROJECT_DIR$/static/sass/_bootstrap-compass.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/_bootstrap-mincer.scss" afterPath="$PROJECT_DIR$/static/sass/_bootstrap-mincer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/_bootstrap-sprockets.scss" afterPath="$PROJECT_DIR$/static/sass/_bootstrap-sprockets.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_alerts.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_badges.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_badges.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_breadcrumbs.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_breadcrumbs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_button-groups.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_button-groups.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_carousel.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_carousel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_close.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_close.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_code.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_component-animations.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_component-animations.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_dropdowns.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_dropdowns.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_glyphicons.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_glyphicons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_grid.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_input-groups.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_input-groups.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_jumbotron.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_labels.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_labels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_list-group.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_media.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_media.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_mixins.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_modals.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_modals.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_navbar.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_navbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_navs.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_navs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_normalize.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_normalize.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_pager.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_pager.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_pagination.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_panels.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_panels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_popovers.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_popovers.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_print.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_progress-bars.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_progress-bars.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_responsive-embed.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_responsive-embed.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_responsive-utilities.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_responsive-utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_scaffolding.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_scaffolding.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_tables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_theme.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_theme.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_thumbnails.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_thumbnails.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_tooltip.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_tooltip.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_type.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_type.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_utilities.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/_wells.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/_wells.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_alerts.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_background-variant.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_border-radius.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_center-block.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_center-block.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_clearfix.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_gradients.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_grid-framework.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_hide-text.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_hide-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_labels.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_labels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_nav-divider.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_opacity.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_opacity.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_panels.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_panels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_progress-bar.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_progress-bar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_reset-filter.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_reset-filter.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_reset-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_resize.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_size.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_tab-focus.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_tab-focus.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_table-row.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_text-overflow.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_text-overflow.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="$PROJECT_DIR$/static/sass/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/style.scss" afterPath="$PROJECT_DIR$/static/sass/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/static/single.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,8 +124,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+              <folding>
+                <element signature="e#16#88#0" expanded="false" />
+                <element signature="e#89#151#0" expanded="false" />
+                <element signature="e#152#207#0" expanded="false" />
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#link#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1808#1889#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="210" column="120" lean-forward="false" selection-start-line="210" selection-start-column="120" selection-end-line="210" selection-end-column="120" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>class</find>
+      <find>header</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>static\/images</replace>
+      <replace>className</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -22,11 +207,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
-    <option name="y" value="112" />
-    <option name="width" value="2574" />
-    <option name="height" value="1402" />
+    <option name="x" value="864" />
+    <option name="y" value="33" />
+    <option name="width" value="1300" />
+    <option name="height" value="1390" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -43,6 +234,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -56,16 +248,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toxichl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toxichl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Coding\Toxixhl\2017\toxichl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Coding\Toxixhl\2017\toxichl\static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,6 +293,74 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -89,31 +371,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490987334035</updated>
-      <workItem from="1490987335996" duration="4000" />
+      <workItem from="1490987335996" duration="916000" />
+      <workItem from="1490988274360" duration="549000" />
+      <workItem from="1490988946348" duration="574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4000" />
+    <option name="totallyTimeSpent" value="2039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="878" y="112" width="2574" height="1402" extended-state="0" />
+    <frame x="864" y="33" width="1300" height="1390" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25059572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2773312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.092801385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -126,5 +410,120 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#88#0" expanded="false" />
+            <element signature="e#89#151#0" expanded="false" />
+            <element signature="e#152#207#0" expanded="false" />
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#link#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1808#1889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#88#0" expanded="false" />
+            <element signature="e#89#151#0" expanded="false" />
+            <element signature="e#152#207#0" expanded="false" />
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#link#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1808#1889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.txt" />
+    <entry file="file://$PROJECT_DIR$/static/js/respond.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style/color.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="210" column="120" lean-forward="false" selection-start-line="210" selection-start-column="120" selection-end-line="210" selection-end-column="120" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <folding>
+            <element signature="e#16#88#0" expanded="false" />
+            <element signature="e#89#151#0" expanded="false" />
+            <element signature="e#152#207#0" expanded="false" />
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#link#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1808#1889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
