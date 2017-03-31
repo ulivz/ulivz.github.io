@@ -30,7 +30,7 @@ class Sidebar extends React.Component {
 					<div className="fh5co-box">
 						<h3 className="heading">Categories</h3>
 						<ul>
-							<li><a href="#">Blog</a></li>
+							<li><a href="http://www.v2js.com/blog/#/">Blog</a></li>
 							<li><a href="#">Writing</a></li>
 							<li><a href="#">Design</a></li>
 							<li><a href="#">Videos</a></li>
