@@ -16,10 +16,10 @@ class ArticleModel {
 
 }
 
-let metadata = new Array()
+let ArticleData = new Array()
 
 for (let i = 0; i < 16; i++) {
-	metadata.push(new ArticleModel(
+	ArticleData.push(new ArticleModel(
 		{
 			link: '',
 			img: SUFFIX + (i > 7 ? i - 7 : i + 1) + '.jpg',
@@ -31,4 +31,4 @@ for (let i = 0; i < 16; i++) {
 }
 
 
-export default metadata;
+export default ArticleData;
