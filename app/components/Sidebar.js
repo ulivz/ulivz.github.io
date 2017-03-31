@@ -9,14 +9,16 @@ class Sidebar extends React.Component {
 				<i className="icon-cross3"></i> <span>Close</span></span></a>
 				<div className="fh5co-bio">
 					<figure>
-						<img src="static/images/person1.jpg" alt="Free HTML5 Bootstrap Template" className="img-responsive" />
+						<img src="https://avatars0.githubusercontent.com/u/23133919?v=3&u=dc5a09ee6220ece04f379319f13686669a2b3c4f&s=400" alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 					</figure>
 					<h3 className="heading">About Me</h3>
-					<h2>Emily Tran Le</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind
-						texts. </p>
+					<h2>Toxichl</h2>
+					<p>A Coder & Designer</p>
 					<ul className="fh5co-social">
 						<li><a href="#"><i className="icon-twitter"></i></a></li>
+						<li><a href="#"><i className="icon-github"></i></a></li>
+						<li><a href="#"><i className="icon-google"></i></a></li>
+						<li><a href="#"><i className="icon-"></i></a></li>
 						<li><a href="#"><i className="icon-facebook"></i></a></li>
 						<li><a href="#"><i className="icon-instagram"></i></a></li>
 					</ul>
