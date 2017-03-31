@@ -15,12 +15,14 @@ class Sidebar extends React.Component {
 					<h2>Toxichl</h2>
 					<p>A Coder & Designer</p>
 					<ul className="fh5co-social">
-						<li><a href="#"><i className="icon-twitter"></i></a></li>
+						<li><a href="https://github.com/toxichl"><i className="icon-github"></i></a></li>
+						<li><a href="http://weibo.com/1631967413/profile"><i className="icon-sina-weibo"></i></a></li>
+						{/*<li><a href="#"><i className="icon-twitter"></i></a></li>
 						<li><a href="#"><i className="icon-github"></i></a></li>
 						<li><a href="#"><i className="icon-google"></i></a></li>
 						<li><a href="#"><i className="icon-"></i></a></li>
 						<li><a href="#"><i className="icon-facebook"></i></a></li>
-						<li><a href="#"><i className="icon-instagram"></i></a></li>
+						<li><a href="#"><i className="icon-instagram"></i></a></li>*/}
 					</ul>
 				</div>
 
@@ -28,11 +30,11 @@ class Sidebar extends React.Component {
 					<div className="fh5co-box">
 						<h3 className="heading">Categories</h3>
 						<ul>
-							<li><a href="#">Travel</a></li>
-							<li><a href="#">Style</a></li>
-							<li><a href="#">Photography</a></li>
-							<li><a href="#">Food &amp; Drinks</a></li>
-							<li><a href="#">Culture</a></li>
+							<li><a href="#">Blog</a></li>
+							<li><a href="#">Writing</a></li>
+							<li><a href="#">Design</a></li>
+							<li><a href="#">Videos</a></li>
+							<li><a href="#">Music</a></li>
 						</ul>
 					</div>
 					<div className="fh5co-box">
