@@ -10,8 +10,18 @@ class Content extends React.Component {
 			<div className="container-fluid">
 				<div className="row fh5co-post-entry">
 					{
-						ArticalData.map(artical => {
-
+						ArticalData.map((artical, index) => {
+							if(index % 2 !== 0) {
+								return (
+									<div key={index}>
+										<Article data={artical} ></Article>
+										<ClearFix></ClearFix>
+									</div>
+								)
+							}
+							return (
+								<Article data={artical} key={index}></Article>
+							)
 						})
 					}
 				</div>
