@@ -1,90 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d57145a-870c-4a6e-8464-233889e62860" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/28/first/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/28/hello-world/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2016/12/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2016/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/algolia_logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/avatar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by-nc.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by-nd.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by-sa.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-by.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cc-zero.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/placeholder.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quote-l.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quote-r.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/searchicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/algolia-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/hook-duoshuo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/motion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/post-details.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/schemes/pisces.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/src/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fastclick/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fastclick/README.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fastclick/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/velocity/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/velocity/velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/velocity/velocity.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/JavaScript/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/icon.png" afterPath="" />
-    </list>
+    <list default="true" id="1d57145a-870c-4a6e-8464-233889e62860" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -258,18 +175,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490987072395</updated>
-      <workItem from="1490987073500" duration="86000" />
+      <workItem from="1490987073500" duration="121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86000" />
+    <option name="totallyTimeSpent" value="121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="462" y="87" width="2574" height="1402" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
