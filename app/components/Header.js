@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Sidebar extends React.Component {
+class Header extends React.Component {
 
 	render() {
 		return (
@@ -29,4 +29,4 @@ class Sidebar extends React.Component {
 
 }
 
-export {Sidebar as default};
+export {Header as default};
