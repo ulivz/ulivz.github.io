@@ -3,6 +3,8 @@ import metadata from './metadata.js';
 
 console.log(metadata)
 
+
+
 class Content extends React.Component {
 
 	render() {
