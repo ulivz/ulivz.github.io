@@ -12,15 +12,10 @@ import Content from './components/Content.js';
 
 ReactDOM.render(
 	<div>
-
 		<Sidebar></Sidebar>
-
 		<Header></Header>
-
 		<Content></Content>
-
 		<Footer></Footer>
-
 	</div>,
 	document.getElementById('app')
 )
