@@ -8,13 +8,13 @@ import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import Content from './components/Content.js';
 
-// import MyRouter from './routes/routes.js';
+import MyRouter from './routes/routes.js';
 
 ReactDOM.render(
 	<div>
 		<Sidebar></Sidebar>
 		<Header></Header>
-		<Content></Content>
+		<MyRouter></MyRouter>
 		<Footer></Footer>
 	</div>,
 	document.getElementById('app')
