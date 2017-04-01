@@ -5,7 +5,10 @@ class Header extends React.Component {
 	render() {
 		return (
 			<header id="v2js-header">
-				<div className="v2js-title">Toxichl's Website</div>
+				<div className="v2js-title">
+					<span>Toxichl's Website</span>
+
+				</div>
 				<div className="container-fluid">
 					<div className="row">
 						<a href="#" className="js-v2js-nav-toggle v2js-nav-toggle"><i></i></a>
