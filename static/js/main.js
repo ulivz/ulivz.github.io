@@ -19,31 +19,31 @@
 
 		// click Sidebar
 		$(document).click(function (e) {
-			var container = $("#fh5co-offcanvas, .js-fh5co-close-offcanvas");
+			var container = $("#v2js-offcanvas, .js-v2js-close-offcanvas");
 			if (!container.is(e.target) && container.has(e.target).length === 0) {
 
-				if ($('#fh5co-offcanvas').hasClass('animated fadeInLeft')) {
+				if ($('#v2js-offcanvas').hasClass('animated fadeInLeft')) {
 
-					$('#fh5co-offcanvas').addClass('animated fadeOutLeft');
+					$('#v2js-offcanvas').addClass('animated fadeOutLeft');
 					setTimeout(function () {
-						$('#fh5co-offcanvas').css('display', 'none');
-						$('#fh5co-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
+						$('#v2js-offcanvas').css('display', 'none');
+						$('#v2js-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
 					}, 1000);
-					$('.js-fh5co-nav-toggle').removeClass('active');
+					$('.js-v2js-nav-toggle').removeClass('active');
 
 				}
 			}
 		});
 
-		$('body').on('click', '.js-fh5co-close-offcanvas', function (event) {
+		$('body').on('click', '.js-v2js-close-offcanvas', function (event) {
 
 
-			$('#fh5co-offcanvas').addClass('animated fadeOutLeft');
+			$('#v2js-offcanvas').addClass('animated fadeOutLeft');
 			setTimeout(function () {
-				$('#fh5co-offcanvas').css('display', 'none');
-				$('#fh5co-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
+				$('#v2js-offcanvas').css('display', 'none');
+				$('#v2js-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
 			}, 1000);
-			$('.js-fh5co-nav-toggle').removeClass('active');
+			$('.js-v2js-nav-toggle').removeClass('active');
 
 			event.preventDefault();
 
@@ -55,16 +55,16 @@
 	// Burger Menu
 	var burgerMenu = function () {
 
-		$('body').on('click', '.js-fh5co-nav-toggle', function (event) {
+		$('body').on('click', '.js-v2js-nav-toggle', function (event) {
 
 			var $this = $(this);
 
-			$('#fh5co-offcanvas').css('display', 'block');
+			$('#v2js-offcanvas').css('display', 'block');
 			setTimeout(function () {
-				$('#fh5co-offcanvas').addClass('animated fadeInLeft');
+				$('#v2js-offcanvas').addClass('animated fadeInLeft');
 			}, 100);
 
-			// $('body').toggleClass('fh5co-overflow offcanvas-visible');
+			// $('body').toggleClass('v2js-overflow offcanvas-visible');
 			$this.toggleClass('active');
 			event.preventDefault();
 
@@ -76,17 +76,17 @@
 
 		$(window).scroll(function () {
 
-			var header = $('#fh5co-header'),
+			var header = $('#v2js-header'),
 				scrlTop = $(this).scrollTop();
 
 
-			$('#fh5co-home .flexslider .fh5co-overlay').css({
+			$('#v2js-home .flexslider .v2js-overlay').css({
 				'opacity': (.5) + (scrlTop / 2000)
 			});
 
 			if ($('body').hasClass('offcanvas-visible')) {
 				$('body').removeClass('offcanvas-visible');
-				$('.js-fh5co-nav-toggle').removeClass('active');
+				$('.js-v2js-nav-toggle').removeClass('active');
 			}
 
 		});
@@ -94,7 +94,7 @@
 		$(window).resize(function () {
 			if ($('body').hasClass('offcanvas-visible')) {
 				$('body').removeClass('offcanvas-visible');
-				$('.js-fh5co-nav-toggle').removeClass('active');
+				$('.js-v2js-nav-toggle').removeClass('active');
 			}
 		});
 
@@ -110,7 +110,7 @@
 		});
 
 		if ($(this).attr('href') != "#") {
-			$('#fh5co-main-nav a:not([class="external"]), #fh5co-offcanvas a:not([class="external"])').click(function (event) {
+			$('#v2js-main-nav a:not([class="external"]), #v2js-offcanvas a:not([class="external"])').click(function (event) {
 				var section = $(this).data('nav-section');
 
 
