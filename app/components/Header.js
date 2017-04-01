@@ -5,6 +5,7 @@ class Header extends React.Component {
 	render() {
 		return (
 			<header id="fh5co-header">
+				<div className="fh5co-title">Toxichl's Website</div>
 				<div className="container-fluid">
 					<div className="row">
 						<a href="#" className="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
