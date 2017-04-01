@@ -258,8 +258,8 @@ p {
 }
 #fh5co-header .fh5co-social {
   position: absolute !important;
-  right: 3em !important;
-  top: 3.2em;
+  right: 2em !important;
+  top: 1em;
   z-index: 99;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -268,13 +268,13 @@ p {
 @media screen and (max-width: 1200px) {
   #fh5co-header .fh5co-social {
     right: 15px !important;
-    top: 3.2em;
+    top: 1em;
   }
 }
 @media screen and (max-width: 768px) {
   #fh5co-header .fh5co-social {
     right: 15px !important;
-    top: 1.5em;
+    top: 0.5em;
   }
 }
 @media screen and (max-width: 480px) {
@@ -523,7 +523,7 @@ p {
 .fh5co-social li a {
   font-size: 20px;
   padding: 4px;
-  color: #000;
+  color: #666;
 }
 
 figure figcaption {
