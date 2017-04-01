@@ -1,0 +1,23 @@
+@import "color.styl"
+$v2js-color-block($color) {
+  margin: 0 5px;
+  text-align: center;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  background: $color;
+}
+
+$color-block-suffix = '.v2js-color-';
+
+$create-color-block($index) {
+  if ($index < 4) {
+    {$color-block-suffix + $index} {
+      $v2js-color-block($color- + $index)
+    }
+    $create-color-block($index + 1)
+  }
+}
+
+$create-color-block(1)

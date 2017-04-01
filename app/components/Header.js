@@ -6,9 +6,9 @@ class Header extends React.Component {
 		return (
 			<header id="v2js-header">
 				<div className="v2js-title">
-					<span>Toxichl's Website</span>
 					<div className="v2js-color-1"></div>
 					<div className="v2js-color-2"></div>
+					<div className="v2js-color-3"></div>
 				</div>
 				<div className="container-fluid">
 					<div className="row">
