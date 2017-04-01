@@ -247,13 +247,43 @@ p {
 .v2js-title {
     position: relative;
     height: 52px;
-    padding: 12px 0;
+    padding: 10px 0;
     background: #2a2a2a;
     color: #aaa;
     font-family: "Microsoft YaHei UI Light";
     text-align: right;
     font-size: 14px;
     font-weight: 100;
+}
+
+.v2js-color-1 {
+    margin: 0 3px;
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background: #bea6b4;
+}
+
+.v2js-color-2 {
+    margin: 0 3px;
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background: #b47552;
+}
+
+.v2js-color-3 {
+    margin: 0 3px;
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background: #d7bda4;
 }
 
 @media screen and (max-width: 1200px) {
