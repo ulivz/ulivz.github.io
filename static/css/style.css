@@ -215,7 +215,7 @@ p {
 }
 
 #fh5co-header {
-  padding: 3em 3em;
+  padding: 2em 2em;
   float: left;
   width: 100%;
 }
@@ -227,7 +227,7 @@ p {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header {
-    padding-bottom: 5em !important;
+    padding-bottom: 1em !important;
   }
 }
 #fh5co-header .fh5co-nav-toggle {
@@ -271,17 +271,15 @@ p {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .fh5co-social {
-    right: inherit !important;
-    left: inherit !important;
-    top: 5em;
-    left: 50% !important;
+    right: 0;
+    top: 0em;
     margin-left: -50px;
   }
 }
 @media screen and (max-width: 768px) {
   #fh5co-header {
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     padding-left: 15px;
     padding-right: 15px;
   }
