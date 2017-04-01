@@ -9,7 +9,7 @@ class Content extends React.Component {
 	render() {
 		return (
 			<div className="container-fluid">
-				<div className="row fh5co-post-entry">
+				<div className="row v2js-post-entry">
 					{
 						ArticalData.map((artical, index) => {
 							if(index % 2 !== 0) {

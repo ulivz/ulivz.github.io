@@ -11,9 +11,9 @@ class Content extends React.Component {
 						<img src={this.props.data.img} alt="Image" className="img-responsive" />
 					</Link>
 				</figure>
-				<span className="fh5co-meta"><a href="single.html">{this.props.data.subtitle}</a></span>
-				<h2 className="fh5co-article-title"><a href="single.html">{this.props.data.title}</a></h2>
-				<span className="fh5co-meta fh5co-date">{this.props.data.date}</span>
+				<span className="v2js-meta"><a href="single.html">{this.props.data.subtitle}</a></span>
+				<h2 className="v2js-article-title"><a href="single.html">{this.props.data.title}</a></h2>
+				<span className="v2js-meta v2js-date">{this.props.data.date}</span>
 			</article>
 		);
 	}

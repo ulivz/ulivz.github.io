@@ -4,17 +4,17 @@ class Sidebar extends React.Component {
 
 	render() {
 		return (
-			<div id="fh5co-offcanvas">
-				<a href="#" className="fh5co-close-offcanvas js-fh5co-close-offcanvas"><span>
+			<div id="v2js-offcanvas">
+				<a href="#" className="v2js-close-offcanvas js-v2js-close-offcanvas"><span>
 				<i className="icon-cross3"></i> <span>Close</span></span></a>
-				<div className="fh5co-bio">
+				<div className="v2js-bio">
 					<figure>
 						<img src="https://avatars0.githubusercontent.com/u/23133919?v=3&u=dc5a09ee6220ece04f379319f13686669a2b3c4f&s=400" alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 					</figure>
 					<h3 className="heading">About Me</h3>
 					<h2>Toxichl</h2>
 					<p>A Coder & Designer</p>
-					<ul className="fh5co-social">
+					<ul className="v2js-social">
 						<li><a href="https://github.com/toxichl"><i className="icon-github"></i></a></li>
 						<li><a href="http://weibo.com/1631967413/profile"><i className="icon-sina-weibo"></i></a></li>
 						{/*<li><a href="#"><i className="icon-twitter"></i></a></li>
@@ -26,8 +26,8 @@ class Sidebar extends React.Component {
 					</ul>
 				</div>
 
-				<div className="fh5co-menu">
-					<div className="fh5co-box">
+				<div className="v2js-menu">
+					<div className="v2js-box">
 						<h3 className="heading">Categories</h3>
 						<ul>
 							<li><a href="http://www.v2js.com/blog/#/">Blog</a></li>
@@ -37,7 +37,7 @@ class Sidebar extends React.Component {
 							<li><a href="#">Music</a></li>
 						</ul>
 					</div>
-					<div className="fh5co-box">
+					<div className="v2js-box">
 						<h3 className="heading">Search</h3>
 						<form action="#">
 							<div className="form-group">

@@ -162,12 +162,22 @@
 	// Document on load.
 	$(function () {
 
-		mobileMenuOutsideClick();
-		burgerMenu();
-		scrolledWindow();
+		function animate() {
+			mobileMenuOutsideClick();
+			burgerMenu();
+			scrolledWindow();
 
-		// Animations
-		contentWayPoint();
+			// Animations
+			contentWayPoint();
+		}
+
+		animate();
+
+		window.addEventListener("hashchange", function () {
+			animate()
+		});
+
+
 
 	});
 
