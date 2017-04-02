@@ -4,7 +4,7 @@
     <list default="true" id="790b5c25-3a0c-45f0-b5d0-c8c3fd699e57" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/header.styl" afterPath="$PROJECT_DIR$/app/style/header.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/index.styl" afterPath="$PROJECT_DIR$/app/style/index.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/sidebar.styl" afterPath="$PROJECT_DIR$/app/style/sidebar.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,21 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/style/index.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="341">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.styl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.styl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/style/header.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="93">
+              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="506" column="0" lean-forward="false" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
+            <state relative-caret-position="496">
+              <caret line="527" column="0" lean-forward="true" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,8 +85,8 @@
       <file leaf-file-name="sidebar.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/style/sidebar.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4030">
-              <caret line="130" column="1" lean-forward="false" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+            <state relative-caret-position="4898">
+              <caret line="156" column="16" lean-forward="true" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -172,10 +172,11 @@
         <option value="$PROJECT_DIR$/app/style/mixin.styl" />
         <option value="$PROJECT_DIR$/app/components/Header.js" />
         <option value="$PROJECT_DIR$/app/style/scrollbar.styl" />
-        <option value="$PROJECT_DIR$/app/style/header.styl" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/app/style/sidebar" />
         <option value="$PROJECT_DIR$/app/style/index.styl" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/app/style/sidebar.styl" />
+        <option value="$PROJECT_DIR$/app/style/header.styl" />
       </list>
     </option>
   </component>
@@ -406,12 +407,12 @@
       <workItem from="1490988274360" duration="549000" />
       <workItem from="1490988946348" duration="9029000" />
       <workItem from="1491034937666" duration="14764000" />
-      <workItem from="1491098119575" duration="1515000" />
+      <workItem from="1491098119575" duration="1798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26773000" />
+    <option name="totallyTimeSpent" value="27056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1232" y="0" width="1338" height="1390" extended-state="0" />
@@ -423,7 +424,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3381974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33738074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -777,22 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/style/header.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="506" column="0" lean-forward="false" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/style/scrollbar.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -801,18 +786,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="527" column="0" lean-forward="true" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/style/sidebar.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4030">
-          <caret line="130" column="1" lean-forward="false" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+        <state relative-caret-position="4898">
+          <caret line="156" column="16" lean-forward="true" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/style/index.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="341">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style/header.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
