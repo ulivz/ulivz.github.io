@@ -684,7 +684,7 @@ figure figcaption {
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
-    background: #535659;
+    background: #FB005B;
     transition: all .2s ease-out;
 }
 
@@ -692,7 +692,7 @@ figure figcaption {
     content: '';
     width: 25px;
     height: 3px;
-    background: #535659;
+    background: #FB005B;
     position: absolute;
     left: 0;
     -webkit-transition: 0.2s;
@@ -798,28 +798,4 @@ figure figcaption {
 
 /*# sourceMappingURL=style.css.map */
 
-::-webkit-scrollbar-track
-{
-    border-radius: 10px;
-    background-color: #F5F5F5;
-}
 
-::-webkit-scrollbar
-{
-    width: 8px;
-    height: 8px;
-    background-color: #F5F5F5;
-}
-
-::-webkit-scrollbar-thumb
-{
-    border-radius: 8px;
-    background-color: #ccc;
-    transition: all 0.5s;
-}
-
-::-webkit-scrollbar-thumb:hover
-{
-    border-radius: 8px;
-    background-color: #777;
-}

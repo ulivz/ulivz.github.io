@@ -6,12 +6,16 @@ class Header extends React.Component {
 		return (
 			<header id="v2js-header">
 				<div className="v2js-title">
-					<button className="v2js-btn-full">
-						<a className="v2js-link" href="">BlOG</a>
-					</button>
-					<button className="v2js-btn-empty">
-						Github
-					</button>
+					<a href="http://www.v2js.com/blog/#/">
+						<button className="v2js-btn-full">
+							BLOG
+						</button>
+					</a>
+					<a href="https://github.com/toxichl">
+						<button className="v2js-btn-empty">
+							Github
+						</button>
+					</a>
 					<a href="#" className="js-v2js-nav-toggle v2js-nav-toggle"><i></i></a>
 					<ul className="v2js-social">
 						<li><a href="https://github.com/toxichl"><i className="icon-github"></i></a></li>
