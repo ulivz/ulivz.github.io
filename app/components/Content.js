@@ -9,6 +9,7 @@ class Content extends React.Component {
 	render() {
 		return (
 			<div className="container-fluid">
+				<div className="weihu">本网站尚在维护中</div>
 				<div className="row v2js-post-entry">
 					{
 						ArticalData.map((artical, index) => {
