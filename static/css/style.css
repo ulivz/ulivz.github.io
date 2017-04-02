@@ -269,7 +269,7 @@ p {
 
 .v2js-post-prev span,
 .v2js-post-next span {
-    vertical-align: base;
+    vertical-align: baseline;
     width: 100px;
 }
 
@@ -342,24 +342,19 @@ p {
 @media screen and (max-width: 1200px) {
     .v2js-post-entry article {
         margin-bottom: 80px;
-        padding-left: 15px;
-        padding-right: 15px;
+
     }
 }
 
 @media screen and (max-width: 992px) {
     .v2js-post-entry article {
         margin-bottom: 80px;
-        padding-left: 15px;
-        padding-right: 15px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .v2js-post-entry article {
         margin-bottom: 40px;
-        padding-left: 15px;
-        padding-right: 15px;
     }
 }
 
@@ -558,6 +553,5 @@ figure figcaption {
     }
 }
 
-/*# sourceMappingURL=style.css.map */
 
 
