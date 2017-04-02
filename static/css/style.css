@@ -501,49 +501,11 @@ figure figcaption {
 
 
 
-#v2js-footer {
-    color: #aaa;
-    font-weight: 100;
-    font-family: "Microsoft YaHei UI Light";
-    padding: 3em 0;
-    text-align: center;
-}
-
-@media screen and (max-width: 768px) {
-    #v2js-footer {
-        font-size: 14px;
-    }
-}
 
 .js .to-animate, .js
 .to-animate-2, .js
 .animate-box {
     opacity: 0;
-}
-
-
-.rp-b {
-    padding-bottom: 40px;
-}
-
-.cp-l {
-    padding-left: 50px;
-}
-
-@media screen and (max-width: 992px) {
-    .cp-l {
-        padding-left: 15px;
-    }
-}
-
-.cp-r {
-    padding-right: 50px;
-}
-
-@media screen and (max-width: 992px) {
-    .cp-r {
-        padding-right: 15px;
-    }
 }
 
 @media screen and (max-width: 480px) {
