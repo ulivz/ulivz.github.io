@@ -156,3 +156,103 @@
   color: #000;
   font-size: 20px;
 }
+
+.v2js-post-prev,
+.v2js-post-next {
+  position: fixed;
+  z-index: 999;
+  top: 50%;
+  height: 50px;
+  margin-top: -25px;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: bold;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
+@media screen and (max-width: 768px) {
+  .v2js-post-prev,
+  .v2js-post-next {
+    position: relative;
+    text-align: center;
+    display: -moz-inline-stack;
+    display: inline-block;
+    zoom: 1;
+*display: inline;
+}
+}
+
+.v2js-post-prev span,
+.v2js-post-next span {
+  vertical-align: baseline;
+  width: 100px;
+}
+
+.v2js-post-prev span i,
+.v2js-post-next span i {
+  top: 7px;
+  position: relative;
+  font-size: 30px;
+  color: #000;
+}
+
+.v2js-post-prev {
+  left: 0;
+  margin-left: -25px;
+}
+
+.v2js-post-prev:hover {
+  margin-left: 10px;
+  color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  .v2js-post-prev {
+    margin-left: 15px;
+    float: left;
+  }
+}
+
+.v2js-post-next {
+  right: 0;
+  margin-right: -25px;
+}
+
+.v2js-post-next:hover {
+  margin-right: 10px;
+  color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  .v2js-post-next {
+    margin-right: 15px;
+    float: right;
+  }
+}
+
+.v2js-social {
+  padding: 0;
+  margin: 30px 0 0 0;
+  position: relative;
+}
+
+.v2js-social li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline;
+}
+
+.v2js-social li a {
+  font-size: 20px;
+  padding: 4px;
+  color: #666;
+}
+
+figure figcaption {
+  padding-top: 15px;
+  font-size: 14px;
+  color: #999999;
+}
