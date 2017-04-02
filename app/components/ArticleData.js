@@ -32,7 +32,7 @@ class ArticleModel {
 
 let ArticleData = [
 	{
-		link: 'detail',
+		link: '',
 		img: `${SUFFIX}2.jpg`,
 		title: 'Coding',
 		subtitle: "Life-long learning",
